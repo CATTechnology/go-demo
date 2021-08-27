@@ -1,10 +1,5 @@
-package main
+package math
 
-import "fmt"
-
-func main(){
-	fmt.Println("init....")
+func Add(a int, b int) int {
+	return a + b
 }
-
-
-
